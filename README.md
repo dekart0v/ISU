@@ -1,3 +1,3 @@
 # ISU
 
-A couple NASM programms (assembly lang).
+A couple SASM programms (assembly lang).
